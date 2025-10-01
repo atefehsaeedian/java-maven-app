@@ -1,4 +1,4 @@
-piplinr {
+pipline {
 
     agent any
   
